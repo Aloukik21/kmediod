@@ -9,6 +9,6 @@ K mediod clusttering for mall customer dataset
 
 
 
-![plot](before.jpg)
+![plot](Before.jpg)
 
-![plot](after.jpg)
+![plot](After.jpg)
