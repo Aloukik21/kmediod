@@ -8,7 +8,10 @@ K mediod clusttering for mall customer dataset
 • Initially, K (4) points were selected as medoids and each data point in the dataset was iterated, then associated with the closest medoid. Cost of each datapoint was calculated and assigned to the nearest cluster. Each cluster contains many data points or instances. In our project, 4 clusters were created as the value of K was 4. Clusters were represented in the 3D graph because we used only 3 features. It can be adjusted as per requirement. This knowledge can be applied in any domain get the insights of the business or model.
 
 
-
+Before clustering image plotting data points on 3D graph
 ![plot](Before.jpg)
 
+
+
+After Clustering, clusters are divided into 4 colors.
 ![plot](After.jpg)
